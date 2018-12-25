@@ -1,11 +1,13 @@
 <template>
   <div id="app">
-    我是一个根组件
+    <router-view/>
   </div>
 </template>
 
 <script>
+export default {
 
+}
 </script>
 
 <style>
